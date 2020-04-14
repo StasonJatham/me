@@ -35,3 +35,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+### Check me out on other pages
+<a href="https://stackoverflow.com/users/13264448/stason-jatham"><img src="https://stackoverflow.com/users/flair/13264448.png" width="208" height="58" alt="profile for Stason Jatham at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Stason Jatham at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+
