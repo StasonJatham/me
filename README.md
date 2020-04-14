@@ -1,6 +1,6 @@
 # Hi, I am Karl Machleidt
 
-![Image of Karl Machleidt](https://github.com/StasonJatham/me/blob/master/assets/css/IMG_7364_freigestellt.png =500x250)
+![Image of Karl Machleidt](https://github.com/StasonJatham/me/blob/master/assets/css/IMG_7364_freigestellt.png)
 
 
 1. Numbered
