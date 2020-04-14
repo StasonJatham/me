@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Hi, I am Karl Machleidt
 
-You can use the [editor on GitHub](https://github.com/StasonJatham/personal_website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image of Karl Machleidt](https://github.com/StasonJatham/me/blob/master/assets/css/IMG_7364_freigestellt.png)
 
 ### Markdown
 
