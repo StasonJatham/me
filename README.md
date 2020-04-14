@@ -2,6 +2,8 @@
 
 ![Image of Karl Machleidt](https://github.com/StasonJatham/me/blob/master/assets/css/IMG_7364_freigestellt.png)
 
+<img src="https://github.com/StasonJatham/me/raw/master/assets/css/IMG_7364_freigestellt.png" alt="Image of Karl Machleidt" style="width:30%; hight:30%;">
+
 
 1. Numbered
 2. List
