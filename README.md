@@ -1,10 +1,7 @@
 # Hi, I am Karl Machleidt
 
-![Image of Karl Machleidt](https://github.com/StasonJatham/me/blob/master/assets/css/IMG_7364_freigestellt.png)
-
-1. Numbered
-2. List
-
+However you got here probably already has an intro about me. So check out my Projects: https://github.com/StasonJatham <br>
+All my current Projects are private: Real Estate Monitoring, TikTok Analytiks, Twitch Analytics.
 
 
 ### Check me out on other pages
